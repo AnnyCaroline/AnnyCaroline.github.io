@@ -8,7 +8,7 @@ Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universid
 --------------------------------
 - Curso de Programação com a Linguagem Céu
   - 2019, UERJ
-  - [github](https://github.com/AnnyCaroline/ceu-curso)
+  - [ [github](https://github.com/AnnyCaroline/ceu-curso) ]
 
 - Concorrência e paralelismo no desenvolvimento de aplicações
   - III Seminário de Informática do Colégio Relango
