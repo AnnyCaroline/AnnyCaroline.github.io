@@ -13,4 +13,4 @@ Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universid
 - Concorrência e paralelismo no desenvolvimento de aplicações
   - III Seminário de Informática do Colégio Relango
   - Jul 11, 2018
-  - [ [site](http://colegiorealengo.br/eventos/55-cr/eventos/eventos-2018/593-3_seminario_info.html) | [slides](https://docs.google.com/presentation/d/1R9ILyFX71vsYd6m70kAjG7NUHVwM3v7utM4zUwogTQI/edit?usp=sharing) ]
+  - [ [site](http://colegiorealengo.br/eventos/55-cr/eventos/eventos-2018/593-3_seminario_info.html) \| [slides](https://docs.google.com/presentation/d/1R9ILyFX71vsYd6m70kAjG7NUHVwM3v7utM4zUwogTQI/edit?usp=sharing) ]
