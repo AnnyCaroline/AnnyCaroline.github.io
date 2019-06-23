@@ -6,6 +6,10 @@ Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universid
 - [CV lattes](http://lattes.cnpq.br/5789034986947740)
 
 --------------------------------
+- APIs do Google
+  - 2019, UERJ
+  - [ [github](https://github.com/AnnyCaroline/sd/tree/master/seminario) \| [slides](https://docs.google.com/presentation/d/1EQ9x9mH4yQfyzOjWqn9Ambo5TaUOcT94Y-DOWj6W3f8/edit?usp=sharing) \| [Medium](https://medium.com/@annycarolinegnr/using-google-vision-api-22d1fdb755d8?sk=65a801ccc670f8190ce0ccd589af8d27)]
+
 - Curso de Programação com a Linguagem Céu
   - 2019, UERJ
   - [ [github](https://github.com/AnnyCaroline/ceu-curso) ]
