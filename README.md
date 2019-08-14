@@ -1,8 +1,15 @@
 # Anny Chagas
 
+<img src="https://media.licdn.com/dms/image/C4E03AQFqwOZ5zoxTzw/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=W8wgtzwVHzW6AMik_sgITJhRfhvjtoS2CvtCdM8whsg" width="150" align="left" style="margin-bottom:20px;"/>
+
 Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universidade do Estado do Rio de Janeiro, na linha de pesquisa em Redes de Computadores e Sistemas Distribuídos
 
+Interesses:  
+`Arduino` `Software Embarcado` `IoT` `Economia de Energia`  
+`Front-end` `ReactJS`
+
 - anny.chagas@uerj.br
+- [LinkedIn](https://www.linkedin.com/in/anny-chagas/)
 - [CV lattes](http://lattes.cnpq.br/5789034986947740)
 
 --------------------------------
