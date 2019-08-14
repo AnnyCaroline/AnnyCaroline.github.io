@@ -1,23 +1,21 @@
 # Anny Chagas
 
 <div style="display: flex; flex-direction: row;">
-    <div>
-        <img src="https://avatars2.githubusercontent.com/u/17753656?s=460&v=4" width="250" style="margin-bottom:20px;"/>
+    <div style="margin-right:20px;">
+        <img src="https://avatars2.githubusercontent.com/u/17753656?s=460&v=4"/>
     </div>
     <div>
-        Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universidade do Estado do Rio de Janeiro, na linha de pesquisa em Redes de Computadores e Sistemas Distribuídos
+        Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universidade do Estado do Rio de Janeiro, na linha de pesquisa em Redes de Computadores e Sistemas Distribuídos.
         
-        <ul style="margin:10px 0 10px 10px;">
+        <ul>
         <li>anny.chagas@uerj.br</li>
         <li><a href="https://www.linkedin.com/in/anny-chagas/">LinkedIn</a></li>
         <li><a href="http://lattes.cnpq.br/5789034986947740">CV lattes</a></li>
         </ul>
-        
-        Interesses:  
-        `Arduino` `Software Embarcado` `IoT` `Economia de Energia`  
-        `Front-end` `ReactJS`
     </div>
 </div>
+
+Interesses: `Arduino` `Software Embarcado` `IoT` `Economia de Energia` `Front-end` `ReactJS`
 
 --------------------------------
 - APIs do Google
