@@ -6,8 +6,8 @@ Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universid
 
 <ul style="margin:10px 0 10px 10px;>
   <li>anny.chagas@uerj.br</li>
-  <li>[LinkedIn](https://www.linkedin.com/in/anny-chagas/)</li>
-  <li>[CV lattes](http://lattes.cnpq.br/5789034986947740)</li>
+  <li><a href="https://www.linkedin.com/in/anny-chagas/">LinkedIn</a></li>
+  <li><a href="http://lattes.cnpq.br/5789034986947740">CV lattes</a></li>
 </ul>
 
 Interesses:  
