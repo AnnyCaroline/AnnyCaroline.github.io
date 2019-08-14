@@ -14,6 +14,7 @@
         </ul>
        
         Interesses:  
+        <br>
         <code>Arduino</code> <code>Software Embarcado</code> <code>IoT</code> <code>Economia de Energia</code> <code>Front-end</code> <code>ReactJS</code>
     </div>
 </div>
