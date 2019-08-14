@@ -13,8 +13,7 @@
         <li><a href="http://lattes.cnpq.br/5789034986947740">CV lattes</a></li>
         </ul>
        
-        Interesses:
-        </br>
+        Interesses:  
         <code>Arduino</code> <code>Software Embarcado</code> <code>IoT</code> <code>Economia de Energia</code> <code>Front-end</code> <code>ReactJS</code>
     </div>
 </div>
