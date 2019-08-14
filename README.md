@@ -4,7 +4,7 @@
 
 Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universidade do Estado do Rio de Janeiro, na linha de pesquisa em Redes de Computadores e Sistemas Distribuídos
 
-<ul style="margin:10px 0 10px 10px;>
+<ul style="margin:10px 0 10px 10px;">
   <li>anny.chagas@uerj.br</li>
   <li><a href="https://www.linkedin.com/in/anny-chagas/">LinkedIn</a></li>
   <li><a href="http://lattes.cnpq.br/5789034986947740">CV lattes</a></li>
