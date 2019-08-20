@@ -4,7 +4,8 @@
     <div style="margin-right:20px;">
         <img src="https://avatars2.githubusercontent.com/u/17753656?s=460&v=4"/>
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column;">
+        <div style="flex: 1;">
         Mestranda no programa de Pós-Graduação em Engenharia Eletrônica da Universidade do Estado do Rio de Janeiro, na linha de pesquisa em Redes de Computadores e Sistemas Distribuídos.
         
         <ul style="margin: 10px 0 10px 0;">
@@ -12,10 +13,12 @@
         <li><a href="https://www.linkedin.com/in/anny-chagas/">LinkedIn</a></li>
         <li><a href="http://lattes.cnpq.br/5789034986947740">CV lattes</a></li>
         </ul>
-       
+        </div>
+        <div>
         Interesses:  
         <br>
         <code>Arduino</code> <code>Software Embarcado</code> <code>IoT</code> <code>Economia de Energia</code> <code>Front-end</code> <code>ReactJS</code>
+        </div>
     </div>
 </div>
 
