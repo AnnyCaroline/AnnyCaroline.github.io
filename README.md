@@ -23,6 +23,11 @@
 </div>
 
 --------------------------------
+- Alô, Bateria!
+    - IoTEEE Rio 2019
+    - 20 de agosto de 2019
+    - [ [site](https://sites.google.com/view/ioteeerio2019) \| [slides](https://docs.google.com/presentation/d/1pVazkXpAJGMI9MtZoDeYkoL5pSr5_XUNFkXsvXEm9zU/edit?usp=sharing) ]
+
 - APIs do Google
   - Seminário da disciplina de Sistemas Distribuídos - PEL
   - 2019.1, UERJ
@@ -34,7 +39,7 @@
 
 - Concorrência e paralelismo no desenvolvimento de aplicações
   - III Seminário de Informática do Colégio Relango
-  - Jul 11, 2018
+  - 11 de Julho de 2018
   - [ [site](http://colegiorealengo.br/eventos/55-cr/eventos/eventos-2018/593-3_seminario_info.html) \| [slides](https://docs.google.com/presentation/d/1R9ILyFX71vsYd6m70kAjG7NUHVwM3v7utM4zUwogTQI/edit?usp=sharing) ]
   
 - Safety and liveness properties - Concurrency, State Models & Java Programs
